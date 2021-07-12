@@ -1,3 +1,3 @@
 # instagram-clone
 
-instargram ui clone-coding
+instargram UI clone-coding
